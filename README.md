@@ -36,37 +36,37 @@
 
 ## Featured Projects
 
-#### MatchRide · [Demo ↗](https://matchride.vercel.app/)
+**MatchRide** · [Demo ↗](https://matchride.vercel.app/)
 Ride-matching platform with a two-stage geospatial matching engine (`ST_DWithin` + `ST_LineLocatePoint`) and weighted scoring, real-time updates via Supabase Realtime.
 `Next.js` `TypeScript` `PostgreSQL` `PostGIS` `Supabase` `Clerk`
 
 ---
 
-#### MatchWise · [Demo ↗](https://matchwise.vercel.app) · [GitHub ↗](https://github.com/himankarora1/MatchWise)
+**[MatchWise](https://github.com/himankarora1/MatchWise)** · [Demo ↗](https://matchwise.vercel.app)
 AI-powered matching app with semantic search over job/candidate data.
 `FastAPI` `React` `MongoDB` `OpenAI`
 
 ---
 
-#### FitHub AI · [Demo ↗](https://fith-ub-ai.streamlit.app/) · [GitHub ↗](https://github.com/himankarora1/FitHub-AI)
+**[FitHub AI](https://github.com/himankarora1/FitHub-AI)** · [Demo ↗](https://fith-ub-ai.streamlit.app/)
 Six-node LangGraph workflow app for AI-driven fitness planning.
 `Python` `Streamlit` `LangGraph` `OpenAI`
 
 ---
 
-#### Mental Health Wellness Platform · [Demo ↗](https://mentalhealthwellnessplatform.vercel.app) · [GitHub ↗](https://github.com/himankarora1/mentalhealthwellnessplatform)
+**[Mental Health Wellness Platform](https://github.com/himankarora1/mentalhealthwellnessplatform)** · [Demo ↗](https://mentalhealthwellnessplatform.vercel.app)
 Full-stack MERN app with complete CRUD and authentication.
 `MongoDB` `Express` `React` `Node.js`
 
 ---
 
-#### Disentangled Generative Networks · [GitHub ↗](https://github.com/himankarora1/Disentangled-Generative-Networks)
+**[Disentangled Generative Networks](https://github.com/himankarora1/Disentangled-Generative-Networks)**
 InfoGAN and CGN implementations comparing disentanglement quality on Colored MNIST, with custom evaluation metrics.
 `Python` `PyTorch` `GANs`
 
 ---
 
-#### Medulloblastoma Subtype Classifier · [GitHub ↗](https://github.com/himankarora1/ML-Medulloblastoma-Subtype-Classification)
+**[Medulloblastoma Subtype Classifier](https://github.com/himankarora1/ML-Medulloblastoma-Subtype-Classification)**
 Tumor subtype classifier, 93% accuracy.
 `Python` `scikit-learn` `XGBoost`
 
