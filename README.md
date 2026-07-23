@@ -49,19 +49,19 @@ I build full-stack products across the frontend, backend, and database layers, w
 
 ## 🔭 Featured Projects
 
-**MatchRide** — Ride-matching platform | <a href="https://matchride.vercel.app/"><img src="https://img.shields.io/badge/demo-live-brightgreen" alt="Demo" style="vertical-align:middle" height="20"/></a><br>
+**MatchRide** — Ride-matching platform | 🟢 [Live Demo](https://matchride.vercel.app/)<br>
 Built on Next.js 14 and PostgreSQL/PostGIS, featuring a two-stage geospatial matching engine (`ST_DWithin` and `ST_LineLocatePoint`) with weighted scoring and real-time updates via Supabase Realtime.<br>
 `Next.js` `TypeScript` `PostgreSQL` `PostGIS` `Supabase` `Clerk`
 
-**[MatchWise](https://github.com/himankarora1/MatchWise)** — AI-powered candidate matching app | <a href="https://matchwise.vercel.app"><img src="https://img.shields.io/badge/demo-live-brightgreen" alt="Demo" style="vertical-align:middle" height="20"/></a><br>
+**[MatchWise](https://github.com/himankarora1/MatchWise)** — AI-powered candidate matching app | 🟢 [Live Demo](https://matchwise.vercel.app)<br>
 FastAPI and React application built on MongoDB and OpenAI, with semantic search capability.<br>
 `FastAPI` `React` `MongoDB` `OpenAI`
 
-**[FitHub AI](https://github.com/himankarora1/FitHub-AI)** — AI fitness planning assistant | <a href="https://fith-ub-ai.streamlit.app/"><img src="https://img.shields.io/badge/demo-live-brightgreen" alt="Demo" style="vertical-align:middle" height="20"/></a><br>
+**[FitHub AI](https://github.com/himankarora1/FitHub-AI)** — AI fitness planning assistant | 🟢 [Live Demo](https://fith-ub-ai.streamlit.app/)<br>
 Six-node LangGraph workflow application built with Python, Streamlit, and OpenAI.<br>
 `Python` `Streamlit` `LangGraph` `OpenAI`
 
-**[Mental Health Wellness Platform](https://github.com/himankarora1/mentalhealthwellnessplatform)** — Full-stack wellness tracking app | <a href="https://mentalhealthwellnessplatform.vercel.app"><img src="https://img.shields.io/badge/demo-live-brightgreen" alt="Demo" style="vertical-align:middle" height="20"/></a><br>
+**[Mental Health Wellness Platform](https://github.com/himankarora1/mentalhealthwellnessplatform)** — Full-stack wellness tracking app | 🟢 [Live Demo](https://mentalhealthwellnessplatform.vercel.app)<br>
 Full-stack MERN application with complete CRUD functionality and authentication.<br>
 `MongoDB` `Express` `React` `Node.js`
 
@@ -89,11 +89,11 @@ Oracle PL/SQL project simulating a train ticket reservation system.<br>
 Java/Swing desktop application for managing healthcare records.<br>
 `Java` `Swing`
 
-**Do All** — Task management app | <a href="https://doall.netlify.app/"><img src="https://img.shields.io/badge/demo-live-brightgreen" alt="Demo" style="vertical-align:middle" height="20"/></a><br>
+**Do All** — Task management app | 🟢 [Live Demo](https://doall.netlify.app/)<br>
 Flask-based to-do list application.<br>
 `Python` `Flask`
 
-**[Stopwatch App](https://github.com/himankarora1/Stopwatch-App)** — Browser-based stopwatch | <a href="https://stopwatchhimank.netlify.app/"><img src="https://img.shields.io/badge/demo-live-brightgreen" alt="Demo" style="vertical-align:middle" height="20"/></a><br>
+**[Stopwatch App](https://github.com/himankarora1/Stopwatch-App)** — Browser-based stopwatch | 🟢 [Live Demo](https://stopwatchhimank.netlify.app/)<br>
 Simple stopwatch built with HTML, CSS, and JavaScript.<br>
 `HTML` `CSS` `JavaScript`
 
