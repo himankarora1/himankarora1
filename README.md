@@ -11,7 +11,7 @@ MSIS grad (Northeastern) with a B.Com background — I build full-stack products
 ### 👤 About
 
 - 🎓 MS in Information Systems, Northeastern University
-- 💼 3 years as a business analyst and de facto technical lead at small businesses, building the tools that didn't exist otherwise
+- 💼 3 years building tools and dashboards at small businesses, wearing the technical hat when there wasn't one to hand off to
 - 📫 Reach me at [himankarora1000@gmail.com](mailto:himankarora1000@gmail.com)
 
 ### 🛠 Tech Stack
