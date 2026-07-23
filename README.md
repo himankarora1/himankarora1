@@ -19,11 +19,11 @@ I build full-stack products across the frontend, backend, and database layers, w
 
 ### Education
 
-**Northeastern University**, Boston, MA
-*M.S. Information Systems* • Sep 2024 – May 2026
+**Northeastern University** - Boston, MA
+*M.S. Information Systems* • May 2026
 
-**Guru Gobind Singh Indraprastha University**, New Delhi, India
-*B.Com* • Graduated 2021
+**Guru Gobind Singh Indraprastha University** - New Delhi, India
+*B.Com* • 2021
 
 ---
 
