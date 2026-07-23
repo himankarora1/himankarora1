@@ -9,15 +9,13 @@ I'm authorized to work in the U.S. on F-1 STEM OPT (up to 3 years), no sponsorsh
 - 💼 3 years of experience building tools and dashboards, often serving as the sole technical resource on a team
 - 📫 Reach me at [himankarora1000@gmail.com](mailto:himankarora1000@gmail.com)
 
----
 
-### About
+## About
 
 I build full-stack products across the frontend, backend, and database layers, with hands-on experience in React, Next.js, Node.js, Python, and PostgreSQL. My background is in business analysis, and I picked up development out of necessity, building and maintaining internal tools and dashboards where there was no dedicated engineer on staff. That combination shapes how I work: I care as much about whether a feature solves the right problem as I do about how it's built.
 
----
 
-### Education
+## Education
 
 **Northeastern University** - Boston, MA<br>
 *M.S. Information Systems* • Sept 2024 - May 2026
@@ -25,9 +23,8 @@ I build full-stack products across the frontend, backend, and database layers, w
 **Guru Gobind Singh Indraprastha University** - New Delhi, India<br>
 *B.Com Honours* • Aug 2017 - Oct 2021
 
----
 
-### 🛠 Tech Stack
+## 🛠 Tech Stack
 
 **Languages:**
 
@@ -45,9 +42,8 @@ I build full-stack products across the frontend, backend, and database layers, w
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
----
 
-### 🔭 Featured Projects
+## 🔭 Featured Projects
 
 **MatchRide** - Ride-matching platform | [![Demo](https://img.shields.io/badge/demo-live-brightgreen)](https://matchride.vercel.app/)
 Built on Next.js 14 and PostgreSQL/PostGIS, featuring a two-stage geospatial matching engine (`ST_DWithin` and `ST_LineLocatePoint`) with weighted scoring and real-time updates via Supabase Realtime.
@@ -85,9 +81,8 @@ Built with scikit-learn and XGBoost, achieving 93% accuracy.
 
 </details>
 
----
 
-### 🔗 Connect
+## 🔗 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himankarora/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-2b2b2b?style=flat)](https://himankarora.com)
