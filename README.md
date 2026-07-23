@@ -1,90 +1,28 @@
-<h1 align="center">Himank Arora</h1>
-<p align="center"><i>MSIS grad (Northeastern) with a B.Com background — building full-stack products end to end, from schema to shipped UI.</i></p>
+<h1 align="center">Hi, I'm Himank Arora 👋</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=himankarora1&color=2b2b2b&style=flat-square&label=Profile+Views" />
+I'm an MSIS grad (Northeastern) with a B.Com background — I build full-stack products end to end, from schema to shipped UI, with a bias toward AI-assisted workflows.
 </p>
 
 <p align="center">
-  <sub>
-  <a href="https://himankarora.com">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/himankarora/">LinkedIn</a> ·
-  <a href="mailto:himankarora1000@gmail.com">Email</a>
-  </sub>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,fastapi,postgres,mongodb,mysql,java,supabase,git,vscode" />
 </p>
 
-<br>
+---
 
-## About
+### 🔭 Featured Projects
 
-- 🎓 MS in Information Systems, Northeastern University
-- 💼 3 years building tools and dashboards at small businesses, wearing the technical hat when there wasn't one to hand off to
-- 📫 [himankarora1000@gmail.com](mailto:himankarora1000@gmail.com)
+**[MatchRide](https://github.com/himankarora1/matchride)** — ride-matching platform on Next.js 14 + PostgreSQL/PostGIS, with a two-stage geospatial matching engine (`ST_DWithin` + `ST_LineLocatePoint`) and weighted scoring, real-time updates via Supabase Realtime.
 
-<br>
+**[MatchWise](https://github.com/himankarora1/matchwise)** — FastAPI + React app for AI-powered matching, built on MongoDB and OpenAI, with semantic search.
 
-## Tech Stack
+**[FitHub AI](https://github.com/himankarora1/fithub-ai)** — LangGraph six-node workflow app built with Python/Streamlit + OpenAI.
 
-| | |
-|---|---|
-| **Languages** | ![JavaScript](https://img.shields.io/badge/-JavaScript-1a1a1a?style=flat-square&logo=javascript&logoColor=F7DF1E) ![TypeScript](https://img.shields.io/badge/-TypeScript-1a1a1a?style=flat-square&logo=typescript&logoColor=3178C6) ![Python](https://img.shields.io/badge/-Python-1a1a1a?style=flat-square&logo=python&logoColor=3776AB) ![Java](https://img.shields.io/badge/-Java-1a1a1a?style=flat-square&logo=openjdk&logoColor=white) |
-| **Frameworks** | ![React](https://img.shields.io/badge/-React-1a1a1a?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/-Next.js-1a1a1a?style=flat-square&logo=nextdotjs&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-1a1a1a?style=flat-square&logo=nodedotjs&logoColor=339933) ![FastAPI](https://img.shields.io/badge/-FastAPI-1a1a1a?style=flat-square&logo=fastapi&logoColor=009688) |
-| **Databases** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-1a1a1a?style=flat-square&logo=postgresql&logoColor=4169E1) ![MongoDB](https://img.shields.io/badge/-MongoDB-1a1a1a?style=flat-square&logo=mongodb&logoColor=47A248) ![MySQL](https://img.shields.io/badge/-MySQL-1a1a1a?style=flat-square&logo=mysql&logoColor=4479A1) |
-| **Tools** | ![Git](https://img.shields.io/badge/-Git-1a1a1a?style=flat-square&logo=git&logoColor=F05032) ![Supabase](https://img.shields.io/badge/-Supabase-1a1a1a?style=flat-square&logo=supabase&logoColor=3ECF8E) ![Vercel](https://img.shields.io/badge/-Vercel-1a1a1a?style=flat-square&logo=vercel&logoColor=white) |
-
-<br>
-
-## Featured Projects
-
-**MatchRide** · [Demo ↗](https://matchride.vercel.app/)
-Ride-matching platform with a two-stage geospatial matching engine (`ST_DWithin` + `ST_LineLocatePoint`) and weighted scoring, real-time updates via Supabase Realtime.
-![Next.js](https://img.shields.io/badge/-Next.js-2b2b2b?style=flat-square) ![TypeScript](https://img.shields.io/badge/-TypeScript-2b2b2b?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-2b2b2b?style=flat-square) ![PostGIS](https://img.shields.io/badge/-PostGIS-2b2b2b?style=flat-square) ![Supabase](https://img.shields.io/badge/-Supabase-2b2b2b?style=flat-square)
+**[Disentangled-Generative-Networks](https://github.com/himankarora1/Disentangled-Generative-Networks)** — InfoGAN and CGN implementations comparing disentanglement quality on Colored MNIST, with custom evaluation metrics.
 
 ---
 
-**[MatchWise](https://github.com/himankarora1/MatchWise)** · [Demo ↗](https://matchwise.vercel.app)
-AI-powered matching app with semantic search over job/candidate data.
-![FastAPI](https://img.shields.io/badge/-FastAPI-2b2b2b?style=flat-square) ![React](https://img.shields.io/badge/-React-2b2b2b?style=flat-square) ![MongoDB](https://img.shields.io/badge/-MongoDB-2b2b2b?style=flat-square) ![OpenAI](https://img.shields.io/badge/-OpenAI-2b2b2b?style=flat-square)
-
----
-
-**[FitHub AI](https://github.com/himankarora1/FitHub-AI)** · [Demo ↗](https://fith-ub-ai.streamlit.app/)
-Six-node LangGraph workflow app for AI-driven fitness planning.
-![Python](https://img.shields.io/badge/-Python-2b2b2b?style=flat-square) ![Streamlit](https://img.shields.io/badge/-Streamlit-2b2b2b?style=flat-square) ![OpenAI](https://img.shields.io/badge/-OpenAI-2b2b2b?style=flat-square)
-
----
-
-**[Mental Health Wellness Platform](https://github.com/himankarora1/mentalhealthwellnessplatform)** · [Demo ↗](https://mentalhealthwellnessplatform.vercel.app)
-Full-stack MERN app with complete CRUD and authentication.
-![MongoDB](https://img.shields.io/badge/-MongoDB-2b2b2b?style=flat-square) ![Express](https://img.shields.io/badge/-Express-2b2b2b?style=flat-square) ![React](https://img.shields.io/badge/-React-2b2b2b?style=flat-square) ![Node.js](https://img.shields.io/badge/-Node.js-2b2b2b?style=flat-square)
-
----
-
-**[Disentangled Generative Networks](https://github.com/himankarora1/Disentangled-Generative-Networks)**
-InfoGAN and CGN implementations comparing disentanglement quality on Colored MNIST, with custom evaluation metrics.
-![Python](https://img.shields.io/badge/-Python-2b2b2b?style=flat-square) ![PyTorch](https://img.shields.io/badge/-PyTorch-2b2b2b?style=flat-square)
-
----
-
-**[Medulloblastoma Subtype Classifier](https://github.com/himankarora1/ML-Medulloblastoma-Subtype-Classification)**
-Tumor subtype classifier, 93% accuracy.
-![Python](https://img.shields.io/badge/-Python-2b2b2b?style=flat-square) ![scikit--learn](https://img.shields.io/badge/-scikit--learn-2b2b2b?style=flat-square) ![XGBoost](https://img.shields.io/badge/-XGBoost-2b2b2b?style=flat-square)
-
-<details>
-<summary><b>More projects</b></summary>
-<br>
-
-- **Invatron** · [GitHub ↗](https://github.com/himankarora1/Invatron_Inventory_Management_System) — JavaFX/MySQL inventory management system
-- **Train Reservation System** · [GitHub ↗](https://github.com/himankarora1/Train-Reservation-System) — Oracle PL/SQL reservation system
-- **Health Management System** · [GitHub ↗](https://github.com/himankarora1/healthcaremanagementsystem) — Java/Swing healthcare app
-- **Do All** · [Demo ↗](https://doall.netlify.app/) — Flask task manager
-- **Stopwatch App** · [Demo ↗](https://stopwatchhimank.netlify.app/) · [GitHub ↗](https://github.com/himankarora1/Stopwatch-App)
-
-</details>
-
-<br>
-
-## GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=himankarora1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
@@ -97,4 +35,12 @@ Tumor subtype classifier, 93% accuracy.
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=himankarora1&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+### 🔗 Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/himankarora1"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 </p>
