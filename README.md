@@ -6,7 +6,7 @@ I completed my Master of Science in Information Systems from Northeastern Univer
 
 I'm authorized to work in the U.S. on F-1 STEM OPT (up to 3 years), no sponsorship required.
 
-- 💼 3 years of experience building tools and dashboards for small businesses, often serving as the sole technical resource
+- 💼 3 years of experience building tools and dashboards, often serving as the sole technical resource on a team
 - 📫 Reach me at [himankarora1000@gmail.com](mailto:himankarora1000@gmail.com)
 
 ---
