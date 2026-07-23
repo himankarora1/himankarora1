@@ -49,27 +49,27 @@ I build full-stack products across the frontend, backend, and database layers, w
 
 ## 🔭 Featured Projects
 
-**MatchRide** - Ride-matching platform | [![Demo](https://img.shields.io/badge/demo-live-brightgreen)](https://matchride.vercel.app/)
+**MatchRide** - Ride-matching platform | [![Demo](https://img.shields.io/badge/demo-live-brightgreen)](https://matchride.vercel.app/)<br>
 Built on Next.js 14 and PostgreSQL/PostGIS, featuring a two-stage geospatial matching engine (`ST_DWithin` and `ST_LineLocatePoint`) with weighted scoring and real-time updates via Supabase Realtime.
 `Next.js` `TypeScript` `PostgreSQL` `PostGIS` `Supabase` `Clerk`
 
-**[MatchWise](https://github.com/himankarora1/MatchWise)** - AI-powered candidate matching app | [![Demo](https://img.shields.io/badge/demo-live-brightgreen)](https://matchwise.vercel.app)
+**[MatchWise](https://github.com/himankarora1/MatchWise)** - AI-powered candidate matching app | [![Demo](https://img.shields.io/badge/demo-live-brightgreen)](https://matchwise.vercel.app)<br>
 FastAPI and React application built on MongoDB and OpenAI, with semantic search capability.
 `FastAPI` `React` `MongoDB` `OpenAI`
 
-**[FitHub AI](https://github.com/himankarora1/FitHub-AI)** - AI fitness planning assistant | [![Demo](https://img.shields.io/badge/demo-live-brightgreen)](https://fith-ub-ai.streamlit.app/)
+**[FitHub AI](https://github.com/himankarora1/FitHub-AI)** - AI fitness planning assistant | [![Demo](https://img.shields.io/badge/demo-live-brightgreen)](https://fith-ub-ai.streamlit.app/)<br>
 Six-node LangGraph workflow application built with Python, Streamlit, and OpenAI.
 `Python` `Streamlit` `LangGraph` `OpenAI`
 
-**[Mental Health Wellness Platform](https://github.com/himankarora1/mentalhealthwellnessplatform)** - Full-stack wellness tracking app | [![Demo](https://img.shields.io/badge/demo-live-brightgreen)](https://mentalhealthwellnessplatform.vercel.app)
+**[Mental Health Wellness Platform](https://github.com/himankarora1/mentalhealthwellnessplatform)** - Full-stack wellness tracking app | [![Demo](https://img.shields.io/badge/demo-live-brightgreen)](https://mentalhealthwellnessplatform.vercel.app)<br>
 Full-stack MERN application with complete CRUD functionality and authentication.
 `MongoDB` `Express` `React` `Node.js`
 
-**[Disentangled-Generative-Networks](https://github.com/himankarora1/Disentangled-Generative-Networks)** - Generative modeling research project
+**[Disentangled-Generative-Networks](https://github.com/himankarora1/Disentangled-Generative-Networks)** - Generative modeling research project<br>
 InfoGAN and CGN implementations comparing disentanglement quality on Colored MNIST, with custom evaluation metrics.
 `Python` `PyTorch` `GANs`
 
-**[Medulloblastoma Subtype Classifier](https://github.com/himankarora1/ML-Medulloblastoma-Subtype-Classification)** - Tumor subtype classification model
+**[Medulloblastoma Subtype Classifier](https://github.com/himankarora1/ML-Medulloblastoma-Subtype-Classification)** - Tumor subtype classification model<br>
 Built with scikit-learn and XGBoost, achieving 93% accuracy.
 `Python` `scikit-learn` `XGBoost`
 
