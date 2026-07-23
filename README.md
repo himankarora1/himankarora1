@@ -77,11 +77,25 @@ Built with scikit-learn and XGBoost, achieving 93% accuracy.<br>
 <summary>More projects</summary>
 <br>
 
-- **[Invatron](https://github.com/himankarora1/Invatron_Inventory_Management_System)**: JavaFX/MySQL inventory management system
-- **[Train Reservation System](https://github.com/himankarora1/Train-Reservation-System)**: Oracle PL/SQL reservation system
-- **[Health Management System](https://github.com/himankarora1/healthcaremanagementsystem)**: Java/Swing healthcare application
-- **[Do All](https://doall.netlify.app/)**: Flask task manager
-- **[Stopwatch App](https://github.com/himankarora1/Stopwatch-App)**: [live demo](https://stopwatchhimank.netlify.app/)
+**[Invatron](https://github.com/himankarora1/Invatron_Inventory_Management_System)** — Inventory management system<br>
+Desktop application for tracking inventory, built with JavaFX and MySQL.<br>
+`Java` `JavaFX` `MySQL`
+
+**[Train Reservation System](https://github.com/himankarora1/Train-Reservation-System)** — Database reservation system<br>
+Oracle PL/SQL project simulating a train ticket reservation system.<br>
+`Oracle` `PL/SQL`
+
+**[Health Management System](https://github.com/himankarora1/healthcaremanagementsystem)** — Healthcare management application<br>
+Java/Swing desktop application for managing healthcare records.<br>
+`Java` `Swing`
+
+**Do All** — Task management app | [![Demo](https://img.shields.io/badge/demo-live-brightgreen)](https://doall.netlify.app/)<br>
+Flask-based to-do list application.<br>
+`Python` `Flask`
+
+**[Stopwatch App](https://github.com/himankarora1/Stopwatch-App)** — Browser-based stopwatch | [![Demo](https://img.shields.io/badge/demo-live-brightgreen)](https://stopwatchhimank.netlify.app/)<br>
+Simple stopwatch built with HTML, CSS, and JavaScript.<br>
+`HTML` `CSS` `JavaScript`
 
 </details>
 
