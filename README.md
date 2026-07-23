@@ -4,11 +4,14 @@
 
 MSIS graduate from Northeastern University with a B.Com background. I build full-stack products end to end, from database schema to shipped UI, with a strong focus on AI-assisted development workflows.
 
-### 👤 About
-
-- 🎓 MS in Information Systems, Northeastern University
 - 💼 3 years of experience building tools and dashboards for small businesses, often serving as the sole technical resource
 - 📫 Reach me at [himankarora1000@gmail.com](mailto:himankarora1000@gmail.com)
+
+---
+
+### About
+
+I build full-stack products across the frontend, backend, and database layers, with hands-on experience in React, Next.js, Node.js, Python, and PostgreSQL. My background is in business analysis, and I picked up development out of necessity, building and maintaining internal tools and dashboards where there was no dedicated engineer on staff. That combination shapes how I work: I care as much about whether a feature solves the right problem as I do about how it's built.
 
 ---
 
