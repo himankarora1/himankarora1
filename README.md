@@ -38,37 +38,37 @@
 
 **MatchRide** · [Demo ↗](https://matchride.vercel.app/)
 Ride-matching platform with a two-stage geospatial matching engine (`ST_DWithin` + `ST_LineLocatePoint`) and weighted scoring, real-time updates via Supabase Realtime.
-`Next.js` `TypeScript` `PostgreSQL` `PostGIS` `Supabase` `Clerk`
+![Next.js](https://img.shields.io/badge/-Next.js-2b2b2b?style=flat-square) ![TypeScript](https://img.shields.io/badge/-TypeScript-2b2b2b?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-2b2b2b?style=flat-square) ![PostGIS](https://img.shields.io/badge/-PostGIS-2b2b2b?style=flat-square) ![Supabase](https://img.shields.io/badge/-Supabase-2b2b2b?style=flat-square)
 
 ---
 
 **[MatchWise](https://github.com/himankarora1/MatchWise)** · [Demo ↗](https://matchwise.vercel.app)
 AI-powered matching app with semantic search over job/candidate data.
-`FastAPI` `React` `MongoDB` `OpenAI`
+![FastAPI](https://img.shields.io/badge/-FastAPI-2b2b2b?style=flat-square) ![React](https://img.shields.io/badge/-React-2b2b2b?style=flat-square) ![MongoDB](https://img.shields.io/badge/-MongoDB-2b2b2b?style=flat-square) ![OpenAI](https://img.shields.io/badge/-OpenAI-2b2b2b?style=flat-square)
 
 ---
 
 **[FitHub AI](https://github.com/himankarora1/FitHub-AI)** · [Demo ↗](https://fith-ub-ai.streamlit.app/)
 Six-node LangGraph workflow app for AI-driven fitness planning.
-`Python` `Streamlit` `LangGraph` `OpenAI`
+![Python](https://img.shields.io/badge/-Python-2b2b2b?style=flat-square) ![Streamlit](https://img.shields.io/badge/-Streamlit-2b2b2b?style=flat-square) ![OpenAI](https://img.shields.io/badge/-OpenAI-2b2b2b?style=flat-square)
 
 ---
 
 **[Mental Health Wellness Platform](https://github.com/himankarora1/mentalhealthwellnessplatform)** · [Demo ↗](https://mentalhealthwellnessplatform.vercel.app)
 Full-stack MERN app with complete CRUD and authentication.
-`MongoDB` `Express` `React` `Node.js`
+![MongoDB](https://img.shields.io/badge/-MongoDB-2b2b2b?style=flat-square) ![Express](https://img.shields.io/badge/-Express-2b2b2b?style=flat-square) ![React](https://img.shields.io/badge/-React-2b2b2b?style=flat-square) ![Node.js](https://img.shields.io/badge/-Node.js-2b2b2b?style=flat-square)
 
 ---
 
 **[Disentangled Generative Networks](https://github.com/himankarora1/Disentangled-Generative-Networks)**
 InfoGAN and CGN implementations comparing disentanglement quality on Colored MNIST, with custom evaluation metrics.
-`Python` `PyTorch` `GANs`
+![Python](https://img.shields.io/badge/-Python-2b2b2b?style=flat-square) ![PyTorch](https://img.shields.io/badge/-PyTorch-2b2b2b?style=flat-square)
 
 ---
 
 **[Medulloblastoma Subtype Classifier](https://github.com/himankarora1/ML-Medulloblastoma-Subtype-Classification)**
 Tumor subtype classifier, 93% accuracy.
-`Python` `scikit-learn` `XGBoost`
+![Python](https://img.shields.io/badge/-Python-2b2b2b?style=flat-square) ![scikit--learn](https://img.shields.io/badge/-scikit--learn-2b2b2b?style=flat-square) ![XGBoost](https://img.shields.io/badge/-XGBoost-2b2b2b?style=flat-square)
 
 <details>
 <summary><b>More projects</b></summary>
@@ -81,3 +81,20 @@ Tumor subtype classifier, 93% accuracy.
 - **Stopwatch App** · [Demo ↗](https://stopwatchhimank.netlify.app/) · [GitHub ↗](https://github.com/himankarora1/Stopwatch-App)
 
 </details>
+
+<br>
+
+## GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=himankarora1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himankarora1&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=himankarora1&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=himankarora1&theme=tokyo-night&hide_border=true" />
+</p>
