@@ -49,27 +49,27 @@ I build full-stack products across the frontend, backend, and database layers, w
 
 ## 🔭 Featured Projects
 
-**MatchRide** - Ride-matching platform | [![Demo](https://img.shields.io/badge/demo-live-brightgreen)](https://matchride.vercel.app/)<br>
+**MatchRide** — Ride-matching platform | <a href="https://matchride.vercel.app/"><img src="https://img.shields.io/badge/demo-live-brightgreen" alt="Demo" style="vertical-align:middle" height="20"/></a><br>
 Built on Next.js 14 and PostgreSQL/PostGIS, featuring a two-stage geospatial matching engine (`ST_DWithin` and `ST_LineLocatePoint`) with weighted scoring and real-time updates via Supabase Realtime.<br>
 `Next.js` `TypeScript` `PostgreSQL` `PostGIS` `Supabase` `Clerk`
 
-**[MatchWise](https://github.com/himankarora1/MatchWise)** - AI-powered candidate matching app | [![Demo](https://img.shields.io/badge/demo-live-brightgreen)](https://matchwise.vercel.app)<br>
+**[MatchWise](https://github.com/himankarora1/MatchWise)** — AI-powered candidate matching app | <a href="https://matchwise.vercel.app"><img src="https://img.shields.io/badge/demo-live-brightgreen" alt="Demo" style="vertical-align:middle" height="20"/></a><br>
 FastAPI and React application built on MongoDB and OpenAI, with semantic search capability.<br>
 `FastAPI` `React` `MongoDB` `OpenAI`
 
-**[FitHub AI](https://github.com/himankarora1/FitHub-AI)** - AI fitness planning assistant | [![Demo](https://img.shields.io/badge/demo-live-brightgreen)](https://fith-ub-ai.streamlit.app/)<br>
+**[FitHub AI](https://github.com/himankarora1/FitHub-AI)** — AI fitness planning assistant | <a href="https://fith-ub-ai.streamlit.app/"><img src="https://img.shields.io/badge/demo-live-brightgreen" alt="Demo" style="vertical-align:middle" height="20"/></a><br>
 Six-node LangGraph workflow application built with Python, Streamlit, and OpenAI.<br>
 `Python` `Streamlit` `LangGraph` `OpenAI`
 
-**[Mental Health Wellness Platform](https://github.com/himankarora1/mentalhealthwellnessplatform)** - Full-stack wellness tracking app | [![Demo](https://img.shields.io/badge/demo-live-brightgreen)](https://mentalhealthwellnessplatform.vercel.app)<br>
+**[Mental Health Wellness Platform](https://github.com/himankarora1/mentalhealthwellnessplatform)** — Full-stack wellness tracking app | <a href="https://mentalhealthwellnessplatform.vercel.app"><img src="https://img.shields.io/badge/demo-live-brightgreen" alt="Demo" style="vertical-align:middle" height="20"/></a><br>
 Full-stack MERN application with complete CRUD functionality and authentication.<br>
 `MongoDB` `Express` `React` `Node.js`
 
-**[Disentangled-Generative-Networks](https://github.com/himankarora1/Disentangled-Generative-Networks)** - Generative modeling research project<br>
+**[Disentangled-Generative-Networks](https://github.com/himankarora1/Disentangled-Generative-Networks)** — Generative modeling research project<br>
 InfoGAN and CGN implementations comparing disentanglement quality on Colored MNIST, with custom evaluation metrics.<br>
 `Python` `PyTorch` `GANs`
 
-**[Medulloblastoma Subtype Classifier](https://github.com/himankarora1/ML-Medulloblastoma-Subtype-Classification)** - Tumor subtype classification model<br>
+**[Medulloblastoma Subtype Classifier](https://github.com/himankarora1/ML-Medulloblastoma-Subtype-Classification)** — Tumor subtype classification model<br>
 Built with scikit-learn and XGBoost, achieving 93% accuracy.<br>
 `Python` `scikit-learn` `XGBoost`
 
@@ -89,11 +89,11 @@ Oracle PL/SQL project simulating a train ticket reservation system.<br>
 Java/Swing desktop application for managing healthcare records.<br>
 `Java` `Swing`
 
-**Do All** — Task management app | [![Demo](https://img.shields.io/badge/demo-live-brightgreen)](https://doall.netlify.app/)<br>
+**Do All** — Task management app | <a href="https://doall.netlify.app/"><img src="https://img.shields.io/badge/demo-live-brightgreen" alt="Demo" style="vertical-align:middle" height="20"/></a><br>
 Flask-based to-do list application.<br>
 `Python` `Flask`
 
-**[Stopwatch App](https://github.com/himankarora1/Stopwatch-App)** — Browser-based stopwatch | [![Demo](https://img.shields.io/badge/demo-live-brightgreen)](https://stopwatchhimank.netlify.app/)<br>
+**[Stopwatch App](https://github.com/himankarora1/Stopwatch-App)** — Browser-based stopwatch | <a href="https://stopwatchhimank.netlify.app/"><img src="https://img.shields.io/badge/demo-live-brightgreen" alt="Demo" style="vertical-align:middle" height="20"/></a><br>
 Simple stopwatch built with HTML, CSS, and JavaScript.<br>
 `HTML` `CSS` `JavaScript`
 
