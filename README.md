@@ -9,11 +9,13 @@ I'm authorized to work in the U.S. on F-1 STEM OPT (up to 3 years), no sponsorsh
 - 💼 3 years of experience building tools and dashboards, often serving as the sole technical resource on a team
 - 📫 Reach me at [himankarora1000@gmail.com](mailto:himankarora1000@gmail.com)
 
+---
 
 ## About
 
 I build full-stack products across the frontend, backend, and database layers, with hands-on experience in React, Next.js, Node.js, Python, and PostgreSQL. My background is in business analysis, and I picked up development out of necessity, building and maintaining internal tools and dashboards where there was no dedicated engineer on staff. That combination shapes how I work: I care as much about whether a feature solves the right problem as I do about how it's built.
 
+---
 
 ## Education
 
@@ -23,6 +25,7 @@ I build full-stack products across the frontend, backend, and database layers, w
 **Guru Gobind Singh Indraprastha University** - New Delhi, India<br>
 *B.Com Honours* • Aug 2017 - Oct 2021
 
+---
 
 ## 🛠 Tech Stack
 
@@ -42,6 +45,7 @@ I build full-stack products across the frontend, backend, and database layers, w
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
+---
 
 ## 🔭 Featured Projects
 
@@ -81,6 +85,7 @@ Built with scikit-learn and XGBoost, achieving 93% accuracy.
 
 </details>
 
+---
 
 ## 🔗 Connect
 
