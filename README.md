@@ -2,7 +2,9 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=himankarora1&color=blueviolet&style=flat)
 
-MSIS graduate from Northeastern University with a B.Com background. I build full-stack products end to end, from database schema to shipped UI, with a strong focus on AI-assisted development workflows.
+I completed my Master of Science in Information Systems from Northeastern University, building on a business foundation from my B.Com. I like working at the intersection of data, product, and engineering, turning business problems into shipped software, from database schema to UI.
+
+I'm authorized to work in the U.S. on F-1 STEM OPT (up to 3 years), no sponsorship required.
 
 - 💼 3 years of experience building tools and dashboards for small businesses, often serving as the sole technical resource
 - 📫 Reach me at [himankarora1000@gmail.com](mailto:himankarora1000@gmail.com)
