@@ -90,6 +90,7 @@ Tumor subtype classifier built with scikit-learn and XGBoost, achieving 93% accu
 ### 🔗 Connect
 
 <p align="center">
-  <a href="https://himankarora.com"><img src="https://img.shields.io/badge/portfolio-himankarora.com-000?style=flat" /></a>
-  <a href="https://www.linkedin.com/in/himankarora/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/himankarora/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://himankarora.com"><img src="https://img.shields.io/badge/Portfolio-2b2b2b?style=flat" /></a>
+  <a href="mailto:himankarora1000@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
