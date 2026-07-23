@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=himankarora1&color=blueviolet&style=flat)
 
-I completed my Master of Science in Information Systems from Northeastern University, building on a business foundation from my B.Com. I like working at the intersection of data, product, and engineering, turning business problems into shipped software, from database schema to UI.
+MS in Information Systems from Northeastern University, with a business foundation from my B.Com. I work at the intersection of data, product, and engineering, turning business problems into shipped software.
 
 I'm authorized to work in the U.S. on F-1 STEM OPT (up to 3 years), no sponsorship required.
 
