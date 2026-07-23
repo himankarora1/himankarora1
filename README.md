@@ -1,14 +1,28 @@
-# Hi, I'm Himank Arora 👋
-
-![Profile Views](https://komarev.com/ghpvc/?username=himankarora1&color=blueviolet&style=flat)
+# Hi, I'm Himank Arora
 
 MSIS graduate from Northeastern University with a B.Com background. I build full-stack products end to end, from database schema to shipped UI, with a strong focus on AI-assisted development workflows.
 
-### 👤 About
+![Profile Views](https://komarev.com/ghpvc/?username=himankarora1&color=blueviolet&style=flat&label=Profile+views)
 
-- 🎓 MS in Information Systems, Northeastern University
-- 💼 3 years of experience building tools and dashboards for small businesses, often serving as the sole technical resource
-- 📫 Reach me at [himankarora1000@gmail.com](mailto:himankarora1000@gmail.com)
+📫 [himankarora1000@gmail.com](mailto:himankarora1000@gmail.com) &nbsp;•&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/himankarora/) &nbsp;•&nbsp; 🌐 [Portfolio](https://himankarora.com)
+
+---
+
+### About
+
+I build full-stack products across the frontend, backend, and database layers, with hands-on experience in React, Next.js, Node.js, Python, and PostgreSQL. My background is in business analysis, and I picked up development out of necessity, building and maintaining internal tools and dashboards where there was no dedicated engineer on staff. That combination shapes how I work: I care as much about whether a feature solves the right problem as I do about how it's built.
+
+---
+
+### Education
+
+**Northeastern University**, Boston, MA
+*M.S. Information Systems* • Sep 2024 – May 2026
+
+**Guru Gobind Singh Indraprastha University**, New Delhi, India
+*B.Com* • Graduated 2021
+
+---
 
 ### 🛠 Tech Stack
 
@@ -59,11 +73,3 @@ Built with scikit-learn and XGBoost, achieving 93% accuracy.
 - **[Stopwatch App](https://github.com/himankarora1/Stopwatch-App)**: [live demo](https://stopwatchhimank.netlify.app/)
 
 </details>
-
----
-
-### 🔗 Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himankarora/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-2b2b2b?style=flat)](https://himankarora.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:himankarora1000@gmail.com)
